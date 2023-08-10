@@ -4,3 +4,5 @@ Proyecto presentado como trabajo final para la materia de investigación de oper
 # Autores
 Alejandro Villegas Ramirez\
 Universidad Tecnologica de Pereira
+
+- [LinkedIn](https://www.linkedin.com/in/alejandrovillegasramirez)
